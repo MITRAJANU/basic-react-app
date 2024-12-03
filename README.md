@@ -83,7 +83,7 @@ sudo rm -rf default
 
     location / {
         autoindex on;
-        root /var/www/vhosts/frontend/build;
+        root /var/www/vhosts/frontend/dist;
         try_files $uri /index.html;
       }
   }
