@@ -16,10 +16,6 @@ Setting up a web application on an AWS EC2 instance involves several steps, from
 9. [Domain and SSL setup](#domain-and-ssl-setup)
 10. [Conclusion](#conclusion)
 
-### Complete YouTube Video Tutorial:
-
-https://youtu.be/UK_OVKDRArs?si=G620QaGNjJOA0LGR
-
 ### Step 1: Launch an AWS EC2 Ubuntu Server
 
 - Log in to the AWS Management Console.
