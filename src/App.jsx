@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello There!, Let's start with V3!</h1>
+      <h1>Hello There!, Let's start with V4!</h1>
       <p>Your IP address is: {ipAddress || 'Fetching...'}</p>
     </div>
   );
